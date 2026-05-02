@@ -1,2 +1,2 @@
 # Kali-Billi
-*kali-Billi*
+*kali*
